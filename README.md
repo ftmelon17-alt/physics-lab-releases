@@ -2,7 +2,7 @@
 
 Windowsでの物理学実験レポート作成を補助するアプリの配布専用リポジトリです。
 
-**現在は初回配布の準備中です。インストーラーはまだ公開していません。**
+**[v2.6を公開しました](https://github.com/ftmelon17-alt/physics-lab-releases/releases/tag/v2.6)。更新内容：更新検証。**
 
 ## 主な機能
 
@@ -13,9 +13,9 @@ Windowsでの物理学実験レポート作成を補助するアプリの配布�
 
 ## 初回インストール
 
-配布開始後、[Releases](https://github.com/ftmelon17-alt/physics-lab-releases/releases)から `PhysicsLab-バージョン-Setup.exe` をダウンロードしてください。インストールには、配布者から直接お知らせする合言葉が必要です。合言葉をIssueやコメントへ投稿しないでください。
+[Releases](https://github.com/ftmelon17-alt/physics-lab-releases/releases)から `PhysicsLab-バージョン-Setup.exe` をダウンロードしてください。インストールには、配布者から直接お知らせする合言葉が必要です。合言葉をIssueやコメントへ投稿しないでください。
 
-Pythonの事前インストールは不要となる予定です。対応環境はWindows 64bitです。初回配布前に動作確認を行います。
+Pythonの事前インストールは不要です。対応環境はWindows 64bitです。
 
 ## 更新
 
